@@ -1,7 +1,7 @@
 # The Open Source Audit: Python
 
-**Student Name:** Manan Pandey<br>
-**Registration Number:** 24BAI10033 <br>
+**Student Name:** Manan Banthia<br>
+**Registration Number:** 24BAI10520 <br>
 **Project Focus:** Python (FOSS Audit)
 
 ## Project Overview
