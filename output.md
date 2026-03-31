@@ -6,31 +6,36 @@ This document contains simulated terminal outputs for the 5 audit scripts.
 
 ## 1. System Identity Report (`system_identity.sh`)
 
-<img width="1600" height="654" alt="image" src="https://github.com/user-attachments/assets/68c057c7-5436-4f3a-84bb-2d7e513c7a81" />
+![WhatsApp Image 2026-03-31 at 8 56 09 PM](https://github.com/user-attachments/assets/4da5143e-0b2d-4ab9-9785-51fe6b000e7d)
+
 
 ---
 
 ## 2. FOSS Package Inspector (`package_instector.sh`)
 
-<img width="1600" height="843" alt="image" src="https://github.com/user-attachments/assets/5d6bfb60-4b2d-4f3a-896e-96189e6eae51" />
+![WhatsApp Image 2026-03-31 at 8 57 52 PM](https://github.com/user-attachments/assets/41b12341-0157-464f-b938-ae1c45bb8963)
+
 
 ---
 
 ## 3. Disk and Permission Auditor (`disk_auditor.sh`)
 
-<img width="1600" height="715" alt="image" src="https://github.com/user-attachments/assets/96ba8dd1-52b4-4a5b-84d2-9ed3f8580d9b" />
+![WhatsApp Image 2026-03-31 at 9 00 08 PM](https://github.com/user-attachments/assets/a5556172-bb1d-44f9-9ac4-7f7961f9905c)
+
 
 ---
 
 ## 4. Log File Analyzer (`log_analyzer.sh`)
 
-<img width="1600" height="643" alt="image" src="https://github.com/user-attachments/assets/f1f6387f-f7ee-45ac-a283-11344f6b0d06" />
+![WhatsApp Image 2026-03-31 at 9 02 00 PM](https://github.com/user-attachments/assets/8e39b6ad-709d-42f8-9aae-efb3ef0f8192)
+
 
 
 ---
 
 ## 5. Open Source Manifesto Generator (`manifesto.sh`)
 
-<img width="1600" height="654" alt="image" src="https://github.com/user-attachments/assets/e9f0f0ab-b80a-4a6f-82c5-34eb10ccd2d5" />
+![WhatsApp Image 2026-03-31 at 9 03 54 PM](https://github.com/user-attachments/assets/9dfe0bcc-9cf7-4f5d-935b-c91f4ecb21c5)
+
 
 
